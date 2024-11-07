@@ -58,3 +58,7 @@ footer p {
     font-size: 0.9em;
     color: #777;
 }
+
+h2 img{
+    float: left;
+}
